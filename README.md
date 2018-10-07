@@ -1,2 +1,2 @@
 # ProtractorJavascript
-sample protractor javascript code
+sample protractor javascript  project
